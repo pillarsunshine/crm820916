@@ -6,6 +6,8 @@ public class Test01 {
 		System.out.println("hello,github");
 		System.out.println("ok,github return 01");
 		System.out.println("github update");
+		System.out.println("local update 02");
 		System.out.println("local update 066666666666");
+
 	}
 }
